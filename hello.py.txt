@@ -1,1 +1,3 @@
-print("hello gsoc")
+print("Hello GSoC!")
+print("My name is Deepak")
+print("I am learning Open Source 🚀")
